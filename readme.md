@@ -5,7 +5,14 @@ This is a basic 2D game to train classes, inheritance and their properties, Obje
 
 ## Access to the game
 
-You can access the game by clicking [here](https://codeitamarjr.github.io/Java-2D-Gaming-HTML--CSS-and-JavaScript-/)
+You can access the game by clicking [2D JavaScript Game](https://codeitamarjr.github.io/Java-2D-Gaming-HTML--CSS-and-JavaScript-/)
+
+### How to play
+
+You can move the player with the up and down keys, and shoot with the space bar.
+You will have 10 seconds to mark 10 points, if you do not, you lose.
+Each time you hit the enemy, the enemy's life will decrease, and if it reaches 0, the enemy will be destroyed.
+When you destroy the enemy, you will get 5 points.
 
 ## Features
 
