@@ -25,3 +25,4 @@ Rechargeable ammo
 - Auto Reload
 
 Special thanks to [freeCodeCamp.org](https://www.youtube.com/watch?v=7BHs1BzA4fs&t=21s) for the tutorial.
+
