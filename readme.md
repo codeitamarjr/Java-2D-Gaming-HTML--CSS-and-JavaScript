@@ -1,6 +1,8 @@
 
 # 2D Game in HTML, CSS and JavaScript
 
+![Game Screenshots](https://github.com/codeitamarjr/Java-2D-Gaming-HTML--CSS-and-JavaScript-/blob/master/assets/screencapture.png)
+
 This is a basic 2D game to train classes, inheritance and their properties, Object Oriented Programming, JavaScript, HTML, CSS
 
 ## Access to the game
