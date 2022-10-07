@@ -7,7 +7,7 @@ This is a basic 2D game to train classes, inheritance and their properties, Obje
 
 ## Access to the game
 
-You can access the game by clicking [2D JavaScript Game](https://codeitamarjr.github.io/Java-2D-Gaming-HTML--CSS-and-JavaScript-/)
+You can access the game by clicking [2D JavaScript Game](https://codeitamarjr.github.io/Java-2D-Gaming-HTML--CSS-and-JavaScript/)
 
 ### How to play
 
