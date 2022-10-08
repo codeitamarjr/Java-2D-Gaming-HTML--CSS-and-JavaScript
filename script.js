@@ -3,7 +3,7 @@ window.addEventListener('load', function() {
     // Canvas setup
     const canvas = this.document.getElementById('canvas1');
     const ctx = canvas.getContext('2d'); // Could be 2d or 3d which is WebGL
-    canvas.width = 1000;
+    canvas.width = 1050;
     canvas.height = 500;
 
     // It'll handle user input
